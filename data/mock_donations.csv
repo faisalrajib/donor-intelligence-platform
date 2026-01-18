@@ -1,0 +1,8 @@
+donor_id,name,email,donation_amount,donation_date,channel
+101,Jane Smith,jane@example.com,50,2024-01-10,web
+101,Jane Smith,jane@example.com,75,2024-06-15,email
+101,Jane Smith,jane@example.com,25,2024-08-01,web
+102,Mike Lee,mike@example.com,20,2023-11-05,event
+103,Aisha Khan,aisha@example.com,100,2024-07-10,web
+103,Aisha Khan,aisha@example.com,150,2024-09-12,email
+104,Carlos Gomez,carlos@example.com,10,2023-06-01,web
